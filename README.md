@@ -35,4 +35,5 @@ Database penjualan untuk Burai SHOP mencakup entitas dan atribut berikut:
 - **Laporan dan Laporan Stok**: Admin dapat melihat laporan transaksi, laporan penjualan, dan stok produk yang habis. Admin juga dapat melakukan pencarian rating berdasarkan penilaian pembeli.
 ## Kesimpulan
 Pembuatan database penjualan untuk Burai SHOP memungkinkan pengelolaan toko online yang lebih efisien dan terstruktur. Proyek ini membantu Burai SHOP dalam mengoptimalkan pengalaman pelanggan, meningkatkan pemesanan, dan memberikan fleksibilitas dalam pembayaran dan pengiriman. Dengan database yang terstruktur, admin dapat dengan mudah melacak transaksi, memantau stok, dan mengelola keluhan pelanggan. Hasil akhir dari proyek ini diharapkan dapat meningkatkan pemesanan kain songket dan anyaman purun, serta meningkatkan pendapatan masyarakat Desa Burai.
+
 https://www.canva.com/design/DAGDZg9UHUQ/6DsIpLXvyIQVvA0nVZabPg/view?utm_content=DAGDZg9UHUQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
